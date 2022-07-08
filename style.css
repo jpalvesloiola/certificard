@@ -125,7 +125,7 @@ body {
   background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
 }
 
-.dark .container .titulo-projeto{
+.dark .container, .titulo-projeto{
   background: #333439;
   color: #f6f6f6;
 }
