@@ -130,6 +130,11 @@ body {
   color: #f6f6f6;
 }
 
+.dark .titulo-projeto{
+  background: #333439;
+  color: #f6f6f6;
+}
+
 .dark .portfolio {
   color: #1c1c1c;
 }
